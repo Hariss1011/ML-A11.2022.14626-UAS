@@ -21,7 +21,7 @@ Bagaimana cara memprediksi harga mobil dengan menggunakan dataset yang berisi in
 
 ### Model / Alur Penyelesaian:
 
-mermaid
+```mermaid
 graph LR
    A[Mulai] --> B[Load dan Preprocessing Data]
     B --> C[EDA dan Feature Engineering]
@@ -29,6 +29,7 @@ graph LR
     D --> E[Modeling]
     E --> F[Evaluasi Model]
     F --> G[Selesai]
+```
 
 ## 3. Penjelasan Dataset,EDA, dan Proses Features Dataset 
 
